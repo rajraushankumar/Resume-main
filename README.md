@@ -21,5 +21,4 @@ PDFLaTeX
 Clean & professional design
 Easy to customize
 Lightweight and fast
-📬 Contact no
-
+📬 Contact 

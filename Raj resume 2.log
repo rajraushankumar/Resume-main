@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.24)  13 APR 2026 20:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.24)  4 MAY 2026 12:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Arvind kumar/OneDrive/Desktop/Rajraushan-Portfolio/Resume/Raj resume 2.tex"
-(c:/Users/Arvind kumar/OneDrive/Desktop/Rajraushan-Portfolio/Resume/Raj resume 2.tex
+**"c:/Users/Arvind kumar/OneDrive/Desktop/Resume-main/Raj resume 2.tex"
+(c:/Users/Arvind kumar/OneDrive/Desktop/Resume-main/Raj resume 2.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -532,21 +532,21 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 88.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 88.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 158.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 172.
  (C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 158.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 172.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 158.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 172.
 
-Overfull \hbox (6.72906pt too wide) in paragraph at lines 88--233
+Overfull \hbox (6.72906pt too wide) in paragraph at lines 88--247
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--233
+Underfull \hbox (badness 10000) in paragraph at lines 88--247
 
  []
 
@@ -562,16 +562,16 @@ Package rerunfilecheck Info: File `"Raj resume 2".out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  15126 strings out of 467871
- 237169 string characters out of 5414952
- 671502 words of memory out of 5000000
+ 237025 string characters out of 5414952
+ 674502 words of memory out of 5000000
  43771 multiletter control sequences out of 15000+600000
  664142 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,590b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,574b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Raj resume 2.pdf" (1 page, 73090 bytes).
+Output written on "Raj resume 2.pdf" (1 page, 75101 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
