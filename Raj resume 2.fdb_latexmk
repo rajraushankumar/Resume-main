@@ -1,11 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1780583317.74834 "c:/Users/Arvind kumar/OneDrive/Desktop/Rajraushan-Portfolio/Resume-main/Raj resume 2.tex" "Raj resume 2.pdf" "Raj resume 2" 1780583319.05034 0
+["pdflatex"] 1783076797.0565 "e:/Our Project/Resume-main/Raj resume 2.tex" "Raj resume 2.pdf" "Raj resume 2" 1783076798.30354 0
   "C:/Users/Arvind kumar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1769265020.63615 83129 2333295e671070a48df19b357e8edc4d ""
-  "C:/Users/Arvind kumar/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1769265026.9414 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/Arvind kumar/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1769264476.54894 13336911 e4ca422e5e50cf1efbae395d46bf7225 ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463869852 2679 32dd8ae231bf4a0752b98f62dc097183 ""
-  "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/symbol/psyr.tfm" 1136752454 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136752454 2172 fd0c924230362ff848a33632ed45dc23 ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb8r.tfm" 1136752454 4524 6bce29db5bc272ba5f332261583fee9c ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb8t.tfm" 1136752454 6880 f19b8995b61c334d78fc734065f6b4d4 ""
@@ -24,9 +22,7 @@
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ectt1000.tfm" 993062340 1348 d70ddf2d5d512b838e50a335e385e919 ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
-  "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm" 1463869852 1360 76c648952c3cfb458d3ca1d9dde7e9bf ""
-  "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb" 1463869852 173219 54847ac27638e1e28852258f5be2fa20 ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb" 1136833548 44729 811d6c62865936705a31c797a1d5dada ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb" 1136833548 46026 6dab18b61c907687b520c72847215a68 ""
@@ -35,7 +31,6 @@
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/ptmr8c.vf" 1136752454 3556 8a9a6dcbcd146ef985683f677f4758a6 ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/ptmr8t.vf" 1136752454 2348 91706c542228501c410c266421fbe30c ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/ptmri8t.vf" 1136752454 2328 6cd7df782b09b29cfc4d93e55b6b9a59 ""
-  "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/zptmcm7y.vf" 1136752454 964 5673178ff30617b900214de28ab32b38 ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/tex/fonts/academicons/academicons-generic.tex" 1758453917 6178 79329eea354c13a62af8d57762b7c1c5 ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/tex/fonts/academicons/academicons-pdftex.tex" 1758453917 9730 3953eb7dac38b28998009acdee1df93a ""
@@ -120,9 +115,9 @@
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1761901070 15651 9d7c62df82cb29a555c00550babfe364 ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "Raj resume 2.aux" 1780583318.78217 280 a82e455dcb63e4fa783ab296bbdb2c73 "pdflatex"
-  "Raj resume 2.out" 1780583318.6661 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "c:/Users/Arvind kumar/OneDrive/Desktop/Rajraushan-Portfolio/Resume-main/Raj resume 2.tex" 1780583317.69365 13158 2596e84ac8a559e6c99500ed8de3f136 ""
+  "Raj resume 2.aux" 1783076798.08675 280 a82e455dcb63e4fa783ab296bbdb2c73 "pdflatex"
+  "Raj resume 2.out" 1783076797.9661 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "e:/Our Project/Resume-main/Raj resume 2.tex" 1783076796.34395 7663 4cce92e7741eaee6d02173c479c49303 ""
   (generated)
   "Raj resume 2.aux"
   "Raj resume 2.log"

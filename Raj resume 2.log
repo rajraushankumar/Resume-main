@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.24)  4 JUN 2026 19:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.24)  3 JUL 2026 16:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Arvind kumar/OneDrive/Desktop/Rajraushan-Portfolio/Resume-main/Raj resume 2.tex"
-(c:/Users/Arvind kumar/OneDrive/Desktop/Rajraushan-Portfolio/Resume-main/Raj resume 2.tex
+**"e:/Our Project/Resume-main/Raj resume 2.tex"
+(e:/Our Project/Resume-main/Raj resume 2.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -416,7 +416,7 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@count@id=\count320
 \enitdp@description=\count321
 )
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 40.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 32.
  (C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
@@ -425,24 +425,24 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 ) (Raj resume 2.aux)
 \openout1 = `"Raj resume 2.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -452,15 +452,15 @@ LaTeX Font Info:    ... okay on input line 40.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(42.67912pt, 528.93675pt, 42.67912pt)
-* v-part:(T,H,B)=(34.1433pt, 746.60033pt, 14.22636pt)
+* h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
+* v-part:(T,H,B)=(14.22636pt, 769.36253pt, 11.38109pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=528.93675pt
-* \textheight=746.60033pt
-* \oddsidemargin=-29.59087pt
-* \evensidemargin=-29.59087pt
-* \topmargin=-75.1267pt
+* \textwidth=557.38951pt
+* \textheight=769.36253pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-95.04362pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -478,7 +478,7 @@ LaTeX Font Info:    ... okay on input line 40.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 40.
+Package hyperref Info: Link coloring ON on input line 32.
 (Raj resume 2.out) (Raj resume 2.out)
 \@outlinefile=\write3
 \openout3 = `"Raj resume 2.out"'.
@@ -502,55 +502,40 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 59.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 38.
  (C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 88.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 45.
  (C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 88.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 45.
  (C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 88.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 45.
  (C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 88.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 45.
  (C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 88.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 45.
  (C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 88.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 88.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 88.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 182.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 115.
  (C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 182.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 182.
-
-Overfull \hbox (35.65858pt too wide) in paragraph at lines 88--259
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 88--259
-
- []
-
-[1
+) [1
 
 {C:/Users/Arvind kumar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] (Raj resume 2.aux)
  ***********
@@ -561,17 +546,17 @@ Package rerunfilecheck Info: File `"Raj resume 2".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15126 strings out of 467871
- 237214 string characters out of 5414952
- 676502 words of memory out of 5000000
- 43771 multiletter control sequences out of 15000+600000
- 664142 words of font info for 100 fonts, out of 8000000 for 9000
+ 15103 strings out of 467871
+ 236497 string characters out of 5414952
+ 679539 words of memory out of 5000000
+ 43752 multiletter control sequences out of 15000+600000
+ 654432 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,595b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Raj resume 2.pdf" (1 page, 75487 bytes).
+ 75i,9n,79p,576b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Arvind kumar/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "Raj resume 2.pdf" (1 page, 66820 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
+ 45 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
