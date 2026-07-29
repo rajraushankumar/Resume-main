@@ -233,6 +233,7 @@ INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfo
 INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
@@ -250,6 +251,8 @@ INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\
 INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome\fontawesometwo.enc
 INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
 INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
 INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
 INPUT C:\Users\Arvind kumar\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
