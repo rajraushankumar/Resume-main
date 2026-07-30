@@ -114,3 +114,33 @@ Bachelor of Computer Applications (Data Science & Artificial Intelligence)
 Gopal Narayan Singh University
 
 2024 – 2027
+
+
+7. Certificates
+
+Arrange them in reverse chronological order and include the year.
+
+Example:
+
+Predictive Analytics using IBM SPSS Modeler – IBM (2026)
+Front-End Technologies – IBM Career Education Program (2026)
+Big Data Technologies – IBM (2026)
+R Programming for Beginners – Infosys Springboard (2026)
+Gemini AI-Powered Challenge – Google (2026)
+AI-Powered Algorithmic Trading Platform – IJEDR Publication (2026)
+
+8. Contact Information
+
+Instead of:
+
+Phone: +91 XXXXX
+
+Use:
+
+📧 Email: rajraushankumar360@gmail.com
+
+📱 Phone: +91 9934064327
+
+🔗 LinkedIn: linkedin.com/in/rajraushankumar
+
+💻 GitHub: github.com/rajraushankumar
