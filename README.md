@@ -7,6 +7,7 @@ IBM and Infosys certifications.
 GitHub and LinkedIn profiles included.
 Relevant technologies for internships.
 Improvements
+
 1. Professional Summary
 
 Current:
@@ -56,6 +57,7 @@ AWS Lambda
 Render
 GitHub Pages
 Netlify
+
 3. Add Missing Technical Skills
 
 Since you are applying for Python and Data Science internships, include:
@@ -68,6 +70,7 @@ Scikit-learn
 Machine Learning (Basic)
 Data Analysis
 Jupyter Notebook
+
 4. Projects
 
 Every project should include:
@@ -94,12 +97,14 @@ GitHub: github.com/yourusername/project
 Live Demo: yourproject.onrender.com
 
 5. Add an Achievements Section
+
 Achievements
 Published Research Paper in IJEDR
 IBM Certified in Front-End Technologies
 IBM Big Data Technologies Certification
 Infosys Springboard – R Programming
 Google Gemini AI Challenge Participant
+
 6. Education
 
 Keep it like this:
